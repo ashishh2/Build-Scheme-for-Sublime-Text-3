@@ -1,4 +1,4 @@
-# Build-Scheme-for-Sublime-Text-3
+# Build-Scheme-for-Sublime-Text-3-MacOS
 
 Hello! 
 
